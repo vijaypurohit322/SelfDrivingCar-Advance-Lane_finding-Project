@@ -1,6 +1,6 @@
 # Advanced Lane Finding for Self-Driving Cars
 
-When humans drive on the road, we rely heavily on lane line-markings to steer our vehicles. The objective of this project is to teach the lane detection ability to a computer as shown in the video below. This project continues upon the work done in the [Basic Lane Finding Project](https://github.com/ssharma1991/autonomous-car-basic-lane-detection) and aims to improve the accuracy and robustness of previous approach.
+When humans drive on the road, we rely heavily on lane line-markings to steer our vehicles. The objective of this project is to teach the lane detection ability to a computer as shown in the video below. This project continues upon the work done in the [Basic Lane Finding Project](https://github.com/vijaypurohit322/SelfDrivingCar-Advance-Lane_finding-Project) and aims to improve the accuracy and robustness of previous approach.
 
 <img src="test_images_output/test2.jpg" width="720" title="Image Processing Pipeline"/>
 
